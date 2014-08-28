@@ -3,5 +3,10 @@ donar
 hello
 hi~
 
+<<<<<<< HEAD
 work hard
 haha
+=======
+love
+girl
+>>>>>>> my_work
